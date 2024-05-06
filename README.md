@@ -1,7 +1,7 @@
 ### Hello, I am Kobe! 👋
 
 ... a DevOps Engineer, Product Developer and experimentalist that loves to explore the intersection between technology and art.
-I love cloud computing and tinkering with code and micro-computers.
+I love cloud computing and tinkering with raspi and arduino.
 
 
 <!--
