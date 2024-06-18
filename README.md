@@ -1,9 +1,9 @@
 ### Hello, I am Kobe! 👋
 
-You can also call me **Bigs**! I am a DevOps Engineer, Product Developer and experimentalist that loves to explore the intersection between technology and art.
-I love troubleshooting K8s, writing cli scripts/apps using **Bash**, **Python** and **Perl**. In my spare time I tinker with raspi and arduino, make art in processing or go out to learn/gather stories with my camera. 
+You can also call me **Bigs**! I am a DevOps Engineer, Product Developer, and experimentalist who loves exploring the intersection of technology and art.
+I love troubleshooting K8s, writing CLI scripts and apps using **Bash**, **Python** and **Perl**. In my spare time, I tinker with #raspi and #arduino, create art with Processing, or head out to learn and gather stories with my camera. 
 
-I am currently revising and exploring more in **Go**, looking to write simple handy tools to use in my daily DevOps tasks. 
+Currently, I am delving deeper into **Go**, aiming to develop simple, handy tools for my daily DevOps tasks. 
 
 I believe in simple acts of kindness.
 
